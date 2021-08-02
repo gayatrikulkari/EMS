@@ -8,8 +8,8 @@
   </button>
   <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
     <div class="navbar-nav">
-      <a class="nav-item nav-link ml-4 active" href="/register">Register <span class="sr-only">(current)</span></a>
-      <a class="nav-item nav-link ml-4 active" href="/signin">Login</a>
+      <!-- <a class="nav-item nav-link ml-4 active" href="/register">Register <span class="sr-only">(current)</span></a>
+      <a class="nav-item nav-link ml-4 active" href="/signin">Login</a> -->
       
     </div>
   </div>
